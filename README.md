@@ -130,19 +130,19 @@
 
 <sub>
 
-<h3>• 🧠 Building <b>AI systems for medical imaging</b> — trained a brain tumor detection model with 98.47% accuracy.</h3>
+<h3>•  Building <b>AI systems for medical imaging</b> — trained a brain tumor detection model with 98.47% accuracy.</h3>
 
-<h3>• 🌐 Experienced in <b>enterprise networking</b> — designed and configured Cisco networks for 70+ users.</p></h3>
+<h3>•  Experienced in <b>enterprise networking</b> — designed and configured Cisco networks for 70+ users.</p></h3>
 
-<h3>• 🔭 Working on <b>end-to-end AI & software projects</b> from data to deployment.</p></h3>
+<h3>•  Working on <b>end-to-end AI & software projects</b> from data to deployment.</p></h3>
 
-<h3>• 🌱 Currently expanding my skills in <b>Full Stack .NET Development</b> through the DEPI program.</p></h3>
+<h3>•  Currently expanding my skills in <b>Full Stack .NET Development</b> through the DEPI program.</p></h3>
 
-<h3>• 💡 Passionate about turning <b>data and code into real-world solutions</b> that save time and lives.</p></h3>
+<h3>•  Passionate about turning <b>data and code into real-world solutions</b> that save time and lives.</p></h3>
 
-<h3>• 🎓 Information Technology student with a strong foundation in AI, Cybersecurity, and Networking.</p></h3>
+<h3>•  Information Technology student with a strong foundation in AI, Cybersecurity, and Networking.</p></h3>
 
-<h3>• ⚡ <b>Fun fact:</b> I enjoy the mix of two very different worlds — training neural networks and configuring routers!</p></h3>
+<h3>•  <b>Fun fact:</b> I enjoy the mix of two very different worlds — training neural networks and configuring routers!</p></h3>
 
 </sub>
 
