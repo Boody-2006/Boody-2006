@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/header-banner.svg" width="100%" />
+<img src="header-banner.svg" width="100%" />
 
 </div>
 
@@ -24,7 +24,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="55" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="45" />
+<img src="cisco-logo.svg" height="45" />
 
 </div>
 
@@ -61,7 +61,7 @@
 <div align="left">
 
 <h3>
-  <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="30" />
+  <img src="cisco-logo.svg" height="30" />
   Networking
 </h3>
 
@@ -235,6 +235,6 @@
 
 <div align="center">
 
-<img src="images/footer-banner.svg" width="100%" />
+<img src="footer-banner.svg" width="100%" />
 
 </div>
