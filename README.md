@@ -34,7 +34,7 @@
 
 
 
-# 🔧 Tech Arsenal
+#  Tech Arsenal
 
 <div align="left">
 
@@ -105,7 +105,7 @@
 <div align="left">
 
 <h3>
-  🛠️ Tools & Technologies
+   Tools & Technologies
 </h3>
 
 <br>
@@ -126,7 +126,7 @@
 <br>
 <br>
 
-<h1>👨‍💻 About Me</h1>
+<h1> About Me</h1>
 
 <sub>
 
@@ -150,33 +150,33 @@
 <br>
 <br>
 
-<h1>🧠 Core Skills</h1>
+<h1> Core Skills</h1>
 
-<h3>🧠 AI & Machine Learning</h3>
+<h3> AI & Machine Learning</h3>
 
 <sub>
 • Deep Learning & CNNs &nbsp; • Medical Image Analysis &nbsp; • Model Training & Evaluation
 </sub>
 
-<h3>🌐 Enterprise Networking</h3>
+<h3> Enterprise Networking</h3>
 
 <sub>
 • VLANs & Inter-VLAN Routing &nbsp; • DHCP & DNS Configuration &nbsp; • Network Design & Documentation
 </sub>
 
-<h3>💻 Full Stack Development</h3>
+<h3> Full Stack Development</h3>
 
 <sub>
 • ASP.NET Core & C# &nbsp; • Entity Framework & LINQ &nbsp; • SQL Server & Modern Web Technologies
 </sub>
 
-<h3>🔍 IT Operations</h3>
+<h3> IT Operations</h3>
 
 <sub>
 • Infrastructure Monitoring &nbsp; • Troubleshooting &nbsp; • Windows Server Administration
 </sub>
 
-<h3>🎯 Project Delivery</h3>
+<h3> Project Delivery</h3>
 
 <sub>
 • Clean Architecture &nbsp; • Scalable Applications &nbsp; • Documentation & Reporting
@@ -214,7 +214,7 @@
 <br>
 
 
-<h1 align="center">🔗 Connect With Me</h1>
+<h1 align="center"> Connect With Me</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelhalim-elkhouly">
