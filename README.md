@@ -130,11 +130,12 @@
 
 <sub>
 
-<h3>•  Building <b>AI systems for medical imaging</b> — trained a brain tumor detection model with 98.47% accuracy.</h3>
+<h3>•  Information Technology student with a 3.71/4.00 GPA and hands-on enterprise networking experience at GASCO.</h3>
 
-<h3>•  Experienced in <b>enterprise networking</b> — designed and configured Cisco networks for 70+ users.</p></h3>
+<h3>•  Proficient in Cisco networking, Python, SQL, and AI development, with experience building a brain tumor detection system achieving 98.47% accuracy.</p></h3>
 
-<h3>•  Working on <b>end-to-end AI & software projects</b> from data to deployment.</p></h3>
+<h3>•  Currently enhancing full-stack .NET skills through DEPI, with a strong interest in leveraging technology to solve real-world challenges across networking,
+cybersecurity, and AI</p></h3>
 
 <h3>•  Currently expanding my skills in <b>Full Stack .NET Development</b> through the DEPI program.</p></h3>
 
